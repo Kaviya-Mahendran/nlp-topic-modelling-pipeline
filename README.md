@@ -181,7 +181,30 @@ aggregating sentiment at topic level
 
 integrating outputs into BI dashboards
 
-**8. How to Reproduce**
+**8. Limitations & Ethics**
+While this pipeline demonstrates how applied NLP can support structured insight generation, it is important to recognise its limitations and ethical considerations.
+
+Model limitations
+
+The topic modelling approach used here prioritises interpretability over precision. LDA surfaces dominant themes, but it does not capture nuanced context, sarcasm, or evolving language patterns. Topics should therefore be treated as signals for exploration, not definitive classifications.
+
+Sentiment scores are similarly approximate. Polarity values provide directional insight rather than precise emotional measurement, and should be interpreted in aggregate rather than at an individual record level.
+
+Data and bias considerations
+
+Topic and sentiment outputs are shaped by the input data distribution. If certain voices or themes are underrepresented in the source text, the model will reflect that imbalance. Analysts should remain aware of these biases and avoid drawing conclusions without contextual validation.
+
+Privacy and responsible use
+
+This pipeline intentionally removes obvious identifiers during preprocessing and avoids the use of sensitive attributes in modelling. However, unstructured text can still carry indirect signals. Outputs should not be used for individual-level profiling or automated decision-making without human oversight.
+
+Responsible application
+
+The intent of this system is to support prioritisation, monitoring, and insight discovery. It is not designed to replace qualitative review or human judgement. Responsible analytics requires combining model outputs with domain knowledge and ethical review.
+
+Although implementations vary across organisations, these principles apply broadly to most data analytics environments.
+
+**9. How to Reproduce**
 
 From the project root:
 
