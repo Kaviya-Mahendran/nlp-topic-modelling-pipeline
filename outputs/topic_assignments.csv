@@ -1,0 +1,121 @@
+id,text,clean_text,topic,sentiment
+1,Community outreach programmes supporting local families and vulnerable groups,community outreach programme supporting local family vulnerable group,1,-0.08333333333333333
+2,Funding constraints affecting long term sustainability of services,funding constraint affecting long term sustainability service,2,-0.05
+3,Volunteer engagement has improved through regular events and training sessions,volunteer engagement improved regular event training session,1,0.0
+4,Challenges in coordinating resources across multiple locations,challenge coordinating resource across multiple location,3,0.0
+5,Strong focus on mental health support and wellbeing initiatives,strong focus mental health support wellbeing initiative,2,0.16666666666666663
+6,Limited awareness among the public about available support services,limited awareness among public available support service,0,0.10952380952380954
+7,Successful collaboration with local partners and stakeholders,successful collaboration local partner stakeholder,1,0.375
+8,Difficulty in retaining volunteers beyond short term commitments,difficulty retaining volunteer beyond short term commitment,4,0.0
+9,Positive feedback from beneficiaries regarding accessibility of services,positive feedback beneficiary regarding accessibility service,3,0.22727272727272727
+10,Operational challenges caused by increasing demand and limited staffing,operational challenge caused increasing demand limited staffing,0,-0.07142857142857142
+11,Education programmes aimed at skill development and empowerment,education programme aimed skill development empowerment,0,0.0
+12,Concerns around consistent funding and grant availability,concern around consistent funding grant availability,1,0.25
+13,High engagement during seasonal campaigns and awareness drives,high engagement seasonal campaign awareness drive,3,0.16
+14,Need for improved communication across teams and departments,need improved communication across team department,3,0.0
+15,Growing interest in digital platforms for outreach and engagement,growing interest digital platform outreach engagement,3,0.0
+16,Support services expanded to meet rising community needs,support service expanded meet rising community need,1,0.0
+17,Volunteer training programmes improved overall service quality,volunteer training programme improved overall service quality,3,0.0
+18,Uncertainty around long term funding models,uncertainty around long term funding model,2,-0.05
+19,Strong participation in community led initiatives,strong participation community led initiative,1,0.4333333333333333
+20,Operational strain during peak activity periods,operational strain peak activity period,1,0.0
+21,Awareness campaigns increased visibility of support programmes,awareness campaign increased visibility support programme,4,0.0
+22,Challenges managing volunteer schedules and availability,challenge managing volunteer schedule availability,3,0.0
+23,Positive response to new wellbeing focused services,positive response new wellbeing focused service,2,0.18181818181818182
+24,Limited resources impacting service delivery timelines,limited resource impacting service delivery timeline,4,-0.07142857142857142
+25,Partnerships helped extend reach into underserved areas,partnership helped extend reach underserved area,4,0.0
+26,Volunteer retention remains a key challenge,volunteer retention remains key challenge,3,0.0
+27,Demand for services has increased steadily over the year,demand service increased steadily year,1,0.16666666666666666
+28,Funding delays affecting programme planning cycles,funding delay affecting programme planning cycle,4,0.0
+29,Community feedback highlighted need for clearer communication,community feedback highlighted need clearer communication,1,0.0
+30,Improved coordination across teams enhanced service efficiency,improved coordination across team enhanced service efficiency,3,0.0
+31,Digital engagement channels showing promising growth,digital engagement channel showing promising growth,4,0.1
+32,Concerns about capacity to meet future demand,concern capacity meet future demand,0,0.0
+33,Volunteer led initiatives strengthened community trust,volunteer led initiative strengthened community trust,1,0.0
+34,Operational improvements reduced processing delays,operational improvement reduced processing delay,0,0.0
+35,Increased participation in educational workshops,increased participation educational workshop,1,0.25
+36,Grant dependency creates uncertainty for planning,grant dependency creates uncertainty planning,2,0.0
+37,Public engagement improved through targeted outreach,public engagement improved targeted outreach,3,0.0
+38,Volunteer burnout observed during intensive campaigns,volunteer burnout observed intensive campaign,1,0.0
+39,Service accessibility improved through location expansion,service accessibility improved location expansion,0,0.0
+40,Rising costs impacting operational sustainability,rising cost impacting operational sustainability,2,0.0
+41,Strong feedback on responsiveness of support teams,strong feedback responsiveness support team,2,0.4333333333333333
+42,Volunteer recruitment efforts require further investment,volunteer recruitment effort require investment,1,0.0
+43,Seasonal demand patterns affecting resource allocation,seasonal demand pattern affecting resource allocation,4,0.0
+44,Positive outcomes reported from pilot programmes,positive outcome reported pilot programme,0,0.22727272727272727
+45,Limited data visibility affecting decision making,limited data visibility affecting decision making,0,-0.07142857142857142
+46,Community partnerships enhanced service reach,community partnership enhanced service reach,4,0.0
+47,Volunteer satisfaction linked to training opportunities,volunteer satisfaction linked training opportunity,3,0.0
+48,Funding stability remains a long term concern,funding stability remains long term concern,2,-0.05
+49,Operational processes refined to reduce manual effort,operational process refined reduce manual effort,0,0.0
+50,Growing interest in hybrid service delivery models,growing interest hybrid service delivery model,0,0.0
+51,Outreach initiatives helped reach new audiences,outreach initiative helped reach new audience,3,0.13636363636363635
+52,Volunteer onboarding process streamlined successfully,volunteer onboarding process streamlined successfully,0,0.75
+53,Concerns around staff capacity during peak periods,concern around staff capacity peak period,1,0.0
+54,Increased engagement through social media campaigns,increased engagement social medium campaign,3,0.03333333333333333
+55,Funding diversification explored to reduce risk,funding diversification explored reduce risk,1,0.0
+56,Community workshops received positive participation,community workshop received positive participation,1,0.22727272727272727
+57,Operational bottlenecks identified during audits,operational bottleneck identified audit,3,0.0
+58,Volunteer availability fluctuates across the year,volunteer availability fluctuates across year,4,0.0
+59,Improved reporting supported better planning decisions,improved reporting supported better planning decision,3,0.5
+60,Awareness of mental health services increased steadily,awareness mental health service increased steadily,2,0.033333333333333326
+61,Resource constraints impacting expansion plans,resource constraint impacting expansion plan,0,0.0
+62,Volunteer leadership roles encouraged long term commitment,volunteer leadership role encouraged long term commitment,2,-0.05
+63,Strong collaboration across cross functional teams,strong collaboration across cross functional team,3,0.21666666666666665
+64,Funding uncertainty affects future programme scope,funding uncertainty affect future programme scope,4,0.0
+65,Service delivery adapted to changing community needs,service delivery adapted changing community need,1,0.0
+66,Volunteer recognition initiatives improved morale,volunteer recognition initiative improved morale,3,0.0
+67,Operational resilience tested during high demand periods,operational resilience tested high demand period,3,0.16
+68,Targeted outreach improved engagement with key groups,targeted outreach improved engagement key group,3,0.0
+69,Grant application success rates varied across cycles,grant application success rate varied across cycle,4,0.3
+70,Community trust strengthened through consistent presence,community trust strengthened consistent presence,1,0.25
+71,Volunteer participation higher in local initiatives,volunteer participation higher local initiative,1,0.125
+72,Operational efficiency improved through process reviews,operational efficiency improved process review,0,0.0
+73,Funding gaps identified in long term projections,funding gap identified long term projection,3,-0.05
+74,Public feedback highlighted value of personalised support,public feedback highlighted value personalised support,0,0.0
+75,Volunteer retention strategies require ongoing refinement,volunteer retention strategy require ongoing refinement,3,0.0
+76,Demand forecasting improved allocation of resources,demand forecasting improved allocation resource,3,0.0
+77,Education focused programmes gained wider adoption,education focused programme gained wider adoption,0,0.0
+78,Operational reporting supports leadership visibility,operational reporting support leadership visibility,2,0.0
+79,Funding reviews highlighted reliance on limited sources,funding review highlighted reliance limited source,0,-0.07142857142857142
+80,Community engagement strengthened through events,community engagement strengthened event,1,0.0
+81,Volunteer support networks reduced attrition risk,volunteer support network reduced attrition risk,0,0.0
+82,Service scalability constrained by current infrastructure,service scalability constrained current infrastructure,1,0.0
+83,Positive sentiment observed around wellbeing initiatives,positive sentiment observed around wellbeing initiative,2,0.22727272727272727
+84,Operational alignment improved across departments,operational alignment improved across department,3,0.0
+85,Funding planning requires scenario based analysis,funding planning requires scenario based analysis,2,0.0
+86,Volunteer training investments showed clear impact,volunteer training investment showed clear impact,1,0.10000000000000002
+87,Community outreach expanded into new regions,community outreach expanded new region,2,0.13636363636363635
+88,Service backlog increased during peak demand,service backlog increased peak demand,1,0.0
+89,Public awareness efforts require sustained investment,public awareness effort require sustained investment,3,0.0
+90,Volunteer satisfaction influenced by flexible roles,volunteer satisfaction influenced flexible role,1,0.0
+91,Operational priorities reviewed to manage workload,operational priority reviewed manage workload,1,0.0
+92,Funding uncertainty remains a recurring theme,funding uncertainty remains recurring theme,2,0.0
+93,Community driven initiatives enhanced local ownership,community driven initiative enhanced local ownership,2,0.0
+94,Volunteer contribution recognised in annual reviews,volunteer contribution recognised annual review,1,0.0
+95,Service optimisation reduced response times,service optimisation reduced response time,4,0.0
+96,Digital tools improved engagement tracking,digital tool improved engagement tracking,3,0.0
+97,Funding strategy aligned with long term goals,funding strategy aligned long term goal,2,-0.05
+98,Community surveys informed service redesign,community survey informed service redesign,0,0.0
+99,Volunteer engagement metrics improved gradually,volunteer engagement metric improved gradually,3,0.0
+100,Operational capacity planning became more data driven,operational capacity planning became data driven,3,0.0
+101,Outreach messaging refined based on feedback,outreach messaging refined based feedback,4,0.0
+102,Volunteer mentoring programmes supported retention,volunteer mentoring programme supported retention,1,0.0
+103,Service accessibility remains a focus area,service accessibility remains focus area,4,0.0
+104,Funding resilience improved through diversification,funding resilience improved diversification,3,0.0
+105,Community participation increased through partnerships,community participation increased partnership,1,0.0
+106,Volunteer scheduling tools reduced conflicts,volunteer scheduling tool reduced conflict,4,0.0
+107,Operational insights supported strategic decisions,operational insight supported strategic decision,0,0.0
+108,Public sentiment reflects trust in services,public sentiment reflects trust service,0,0.0
+109,Funding transparency improved stakeholder confidence,funding transparency improved stakeholder confidence,3,0.0
+110,Community needs assessments guided planning,community need assessment guided planning,1,0.0
+111,Volunteer development plans encouraged progression,volunteer development plan encouraged progression,2,0.0
+112,Operational learning incorporated into future cycles,operational learning incorporated future cycle,0,0.0
+113,Service innovation supported emerging needs,service innovation supported emerging need,0,0.0
+114,Funding challenges require adaptive planning,funding challenge require adaptive planning,3,0.0
+115,Community engagement strategies reviewed regularly,community engagement strategy reviewed regularly,3,0.0
+116,Volunteer wellbeing recognised as priority,volunteer wellbeing recognised priority,2,0.0
+117,Operational data quality improved consistency,operational data quality improved consistency,3,0.0
+118,Public outreach effectiveness measured systematically,public outreach effectiveness measured systematically,2,0.0
+119,Funding reviews informed resource prioritisation,funding review informed resource prioritisation,2,0.0
+120,Community feedback continues to shape services,community feedback continues shape service,4,0.0
